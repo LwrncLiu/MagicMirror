@@ -1,0 +1,23 @@
+.train-logo {
+    width: 2em;
+    height: auto;
+    vertical-align: middle;
+}
+
+.station-arrival {
+    display: block;
+    width: 100%;
+    margin: 0.5em;
+}
+
+.station {
+    /* display: inline-block; */
+    /* width: 50%; */
+    text-align: left;
+}
+
+.arrival-time {
+    /* display: inline-block; */
+    /* width: 50%; */
+    text-align: right;
+}
